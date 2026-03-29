@@ -9,6 +9,7 @@ Escolha a pasta de categoria conforme o foco principal:
 | `requirements/` | Histórias de negócio, refinamento, critérios de aceite, perguntas a stakeholders |
 | `solution-design/` | Opções técnicas, trade-offs, escopo MVP/incremental |
 | `architecture/` | ADR, C4, integrações, modelo de dados |
+| `database/` | Ligação à BD, drivers, pools, consultas, desempenho |
 | `quality-risk/` | NFRs, riscos, segurança por design |
 | `documentation/` | RFC, diagramas, comunicação com o time ou negócio |
 | `stack/<linguagem>/` | Skills fortemente acopladas a uma stack (ex.: Java/Spring) |

@@ -9,6 +9,7 @@ Repositório de **Agent Skills** em Markdown com frontmatter YAML (`name`, `desc
 | `requirements/` | Negócio, histórias, refinamento, critérios de aceite |
 | `solution-design/` | Opções técnicas, trade-offs, escopo incremental |
 | `architecture/` | ADR, C4, integrações, modelo de dados |
+| `database/` | Ligação à BD, drivers, pools, consultas, desempenho |
 | `quality-risk/` | NFRs, risco, segurança por design |
 | `documentation/` | RFC, diagramas, comunicação com time/negócio |
 | `stack/<linguagem>/` | Skills acopladas a uma stack (ex.: Java) |
